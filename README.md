@@ -4,11 +4,11 @@ This Repo is for Validation of  the EE Test page .
 
 ASSUMED REQUIREMENTS
 ====================
-    # The Web Application should work similarly on all Browsers
-    # The Web Application should work similarly on not just Laptop/Desktops but also Mobile Devices
-    # The Web Applications shall have a predictable and defined load time irrespctive of the number of Booking records it contains[LOAD TIME - TBD]
-    # The User Credentials - First Name and Surname - shall have defined lengths and shall not take special characters other than "." [LENGTH - TBD]
-    # The Price Input shall be restrcited to a specific length only and will have a MAX OF ONLY 2 digit decimal denoting the currency denomination   [LENGTH - TBD maybe 12 digits for ex: 1234567890.89]
+    #1 The Web Application should work similarly on all Browsers
+    #2 The Web Application should work similarly on not just Laptop/Desktops but also Mobile Devices
+    #3 The Web Applications shall have a predictable and defined load time irrespctive of the number of Booking records it contains[LOAD TIME - TBD]
+    #4 The User Credentials - First Name and Surname - shall have defined lengths and shall not take special characters other than "." [LENGTH - TBD]
+    #5 The Price Input shall be restrcited to a specific length only and will have a MAX OF ONLY 2 digit decimal denoting the currency denomination   [LENGTH - TBD maybe 12 digits for ex: 1234567890.89]
     #6 The Check-In and Check-Out dates shall not be in the past.They shall always be current or in the future
     #7 The Check-Out Date shall always be equal to or later than the Check-In Date.
 
