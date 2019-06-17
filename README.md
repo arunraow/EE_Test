@@ -14,20 +14,21 @@ ASSUMED REQUIREMENTS
 
 CONTENTS
 ==========
-1>TestCases.xlsx 
-=================
- a>Contains the list of Test Cases which have been recorded/executed
- b>NOTE- Even though there were no explicit requirements provided,certain requirements have been assumed while deriving the tests.
- c>It also has a list of Issues observed 
- =======================================
+    #1> TestCases.xlsx 
+    #  =================
+    #   a>Contains the list of Test Cases which have been recorded/executed
+    #   b>NOTE- Even though there were no explicit requirements provided,certain requirements have been assumed while deriving the tests.
+    #   c>It also has a list of Issues observed 
  
-2>EqualExpertsHotelBooking_v001.zip
-====================================
- a> SpecFlow[Cucumber for .Net] based Test Automation Solution 
- b> Built using .Net 4.7.2 and Specflow 3
- [NOTE - This version of specflow mandates the use of specfic libraries to generate the Code Behind files which actually run the test]
- c>Other advancements that can be done are:
- ==========================================
+ 
+    #2> EqualExpertsHotelBooking_v001.zip
+    #   ====================================
+    #     a> SpecFlow[Cucumber for .Net] based Test Automation Solution 
+    #     b> Built using .Net 4.7.2 and Specflow 3
+    #     [NOTE - This version of specflow mandates the use of specfic libraries to generate the Code Behind files which actually run       #      the test]
+
+Other advancements that can be done are:
+=========================================
     # Conversion of this test solution to Command Utility driven method which allows it to be integrated to a CI/CD flow
     # Include PEN/SECURITY Test Automation as required
     # Include Automated Simulation of Multiple Users using Jmeter/equivalent..
